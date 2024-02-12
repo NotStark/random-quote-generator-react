@@ -57,6 +57,11 @@ body {
   font-size: 1rem;
   font-weight: 600;
   cursor: pointer;
+  transition: .2s ease-in-out;
+}
+
+.wrapper .bottom button:active {
+  scale: .9;
 }
 
 .wrapper .quote h6 {
