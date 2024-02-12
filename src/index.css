@@ -14,7 +14,7 @@ html {
 }
 
 body {
-  background-color: rgb(66, 66, 66);
+  background-color: #DFDBE5;
   display: grid;
   place-content: center;
 }
